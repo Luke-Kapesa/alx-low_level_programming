@@ -1,4 +1,4 @@
-#include <sdtio.h>
+#include <stdio.h>
 /**
   *main - Entry point
   *Description: 'single digit numbers of base 10 in a new line'
