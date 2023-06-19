@@ -2,7 +2,7 @@
 /**
   *main - Entry point
   *Description: 'single digit numbers of base 10'
-  *Retturn: always 0 (success)
+  *Return: always 0 (success)
   */
 int main(void)
 {
