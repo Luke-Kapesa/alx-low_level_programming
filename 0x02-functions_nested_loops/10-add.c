@@ -7,7 +7,7 @@
  *Description: adds two numbers
  *Return: void data type
  */
-int add(int a,  int b);
+int add(int a,  int b)
 {
 	int sum = a + b;
 
