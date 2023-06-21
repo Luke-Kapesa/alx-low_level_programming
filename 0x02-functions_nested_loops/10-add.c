@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "main.h"
 /*
- *add - Functionto add two numbers 
+ *add - Function to add two numbers
  *@a: integer a
  *@b: integer b
  *Description: adds two numbers
