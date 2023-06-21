@@ -1,13 +1,13 @@
 #include <stdio.h>
 #include "main.h"
-/*
- *add: Function to add two numbers
+/**
+ *add - Function to add two numbers
  *@a: integer a
  *@b: integer b
  *Description: adds two numbers
  *Return: void data type
  */
-int add(int a,  int b);
+int add(int a, int b)
 {
 	int sum = a + b;
 
